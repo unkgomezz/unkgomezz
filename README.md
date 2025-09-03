@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F79C&center=true&vCenter=true&width=700&lines=Fala+aí,+eu+sou+o+Gomezz!;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia;Aprendendo,+criando+e+evoluindo+todos+os+dias!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F79C&center=true&vCenter=true&width=700&lines=Fala+aí,+eu+sou+o+Gomezz!;Desenvolvedor+Full+Stack.;Aprendendo,+criando+e+evoluindo.🚀" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
