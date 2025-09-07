@@ -38,22 +38,6 @@ Acredito que cada projeto é uma oportunidade de evoluir e fazer algo **melhor**
 
 ---
 
-## 🏆 **Conquistas**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unkgomezz&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 **Gráfico de Atividade**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unkgomezz&bg_color=0D1117&color=00F79C&line=00F79C&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade do Gomezz" />
-</p>
-
----
-
 ## 🚀 **Let's Code!**
 
 <p align="center">
