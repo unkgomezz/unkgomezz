@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unkgomezz&label=Visualizações&color=brightgreen&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=flat&logo=codefactor" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=flat&logo=github" />
-</p>
 
 ---
 
