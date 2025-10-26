@@ -12,9 +12,9 @@
 ---
 
 ## 👨‍💻 **Sobre mim**
-Sou o **Gomezz**, um desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e aprendizado contínuo.  
+Sou o **Gomezz**, desenvolvedor **Full Stack** fascinado por tecnologia, inovação e aprendizado contínuo.  
 Gosto de criar soluções, explorar novas ferramentas e transformar ideias em código.  
-Acredito que cada projeto é uma oportunidade de evoluir e fazer algo **melhor** do que ontem. 🚀  
+Acredito que cada projeto é uma oportunidade de evoluir e fazer algo **melhor** do que ontem.
 
 - 🧠 Sempre aprendendo novas linguagens e frameworks.
 - 📫 Contato: **unkzemog@gmail.com**
@@ -29,15 +29,6 @@ Acredito que cada projeto é uma oportunidade de evoluir e fazer algo **melhor**
 
 ---
 
-## 📊 **Minhas Estatísticas**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unkgomezz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkgomezz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## 🚀 **Let's Code!**
 
 <p align="center">
@@ -45,5 +36,5 @@ Acredito que cada projeto é uma oportunidade de evoluir e fazer algo **melhor**
 </p>
 
 <p align="center">
-Seja bem-vindo ao meu perfil! Sempre aberto a aprender, compartilhar e colaborar. 😎
+Seja bem-vindo ao meu perfil! Sempre aberto a aprender, compartilhar e colaborar.
 </p>
